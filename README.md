@@ -41,6 +41,8 @@ GET http://localhost:5116/cat_fact
 ```
 You can paste the URL above into a browser or use a command such as `curl`.
 
+A new cat fact should be visible in a .txt file. 
+
  
 ### 5. Running the tests
 
