@@ -1,4 +1,4 @@
-﻿namespace netwise_task.DTOs;
+﻿namespace netwise_recruitment_task.DTOs;
 
 public class GetCatFactDto
 {

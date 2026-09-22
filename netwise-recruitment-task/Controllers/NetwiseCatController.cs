@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using netwise_task.Exceptions;
-using netwise_task.Services.Interfaces;
+using netwise_recruitment_task.Exceptions;
+using netwise_recruitment_task.Services.Interfaces;
 
-namespace netwise_task.Controllers;
+namespace netwise_recruitment_task.Controllers;
 
 public class NetwiseCatController(ICatService service) : ControllerBase
 {
@@ -20,7 +20,6 @@ public class NetwiseCatController(ICatService service) : ControllerBase
         }
         catch (Exception e)
         {
-            Console.WriteLine($"Hello world: {e.Message}");
             return StatusCode(500, "Internal server error");
         }
     }

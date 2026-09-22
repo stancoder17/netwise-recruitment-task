@@ -1,7 +1,7 @@
-﻿using netwise_task.Clients.Interfaces;
-using netwise_task.DTOs;
+﻿using netwise_recruitment_task.Clients.Interfaces;
+using netwise_recruitment_task.DTOs;
 
-namespace netwise_task.Clients.Implementations;
+namespace netwise_recruitment_task.Clients.Implementations;
 
 public class NetwiseCatClient(HttpClient httpClient) : ICatClient
 {

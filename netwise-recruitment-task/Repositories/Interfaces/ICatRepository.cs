@@ -1,4 +1,4 @@
-﻿namespace netwise_task.Repositories.Interfaces;
+﻿namespace netwise_recruitment_task.Repositories.Interfaces;
 
 public interface ICatRepository
 {

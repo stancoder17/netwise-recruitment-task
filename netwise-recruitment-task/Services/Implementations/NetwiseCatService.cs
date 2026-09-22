@@ -1,9 +1,9 @@
-﻿using netwise_task.Clients.Interfaces;
-using netwise_task.Exceptions;
-using netwise_task.Repositories.Interfaces;
-using netwise_task.Services.Interfaces;
+﻿using netwise_recruitment_task.Clients.Interfaces;
+using netwise_recruitment_task.Exceptions;
+using netwise_recruitment_task.Repositories.Interfaces;
+using netwise_recruitment_task.Services.Interfaces;
 
-namespace netwise_task.Services.Implementations;
+namespace netwise_recruitment_task.Services.Implementations;
 
 public class NetwiseCatService(ICatClient client, ICatRepository repository) : ICatService
 {

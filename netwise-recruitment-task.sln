@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netwise-recruitment-task", "netwise-recruitment-task\netwise-recruitment-task.csproj", "{47451A6E-D081-49BD-86A8-C218463AADF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeryGoodTests", "VeryGoodTests\VeryGoodTests.csproj", "{525A7491-9A3B-462E-AB77-FC1F0B4592D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47451A6E-D081-49BD-86A8-C218463AADF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47451A6E-D081-49BD-86A8-C218463AADF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47451A6E-D081-49BD-86A8-C218463AADF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47451A6E-D081-49BD-86A8-C218463AADF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{525A7491-9A3B-462E-AB77-FC1F0B4592D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{525A7491-9A3B-462E-AB77-FC1F0B4592D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{525A7491-9A3B-462E-AB77-FC1F0B4592D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{525A7491-9A3B-462E-AB77-FC1F0B4592D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

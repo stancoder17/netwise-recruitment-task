@@ -1,6 +1,6 @@
-﻿using netwise_task.Repositories.Interfaces;
+﻿using netwise_recruitment_task.Repositories.Interfaces;
 
-namespace netwise_task.Repositories.Implementations;
+namespace netwise_recruitment_task.Repositories.Implementations;
 
 public class NetwiseCatFileRepository(IConfiguration configuration) : ICatRepository
 {

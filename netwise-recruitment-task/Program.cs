@@ -1,9 +1,9 @@
-using netwise_task.Clients.Implementations;
-using netwise_task.Clients.Interfaces;
-using netwise_task.Repositories.Implementations;
-using netwise_task.Repositories.Interfaces;
-using netwise_task.Services.Implementations;
-using netwise_task.Services.Interfaces;
+using netwise_recruitment_task.Clients.Implementations;
+using netwise_recruitment_task.Clients.Interfaces;
+using netwise_recruitment_task.Repositories.Implementations;
+using netwise_recruitment_task.Repositories.Interfaces;
+using netwise_recruitment_task.Services.Implementations;
+using netwise_recruitment_task.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
