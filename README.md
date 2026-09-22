@@ -21,8 +21,9 @@ dotnet build
 ### 3. Starting the server
 
 ```powershell
-dotnet run --project .\netwise-recruitment-task\netwise-recruitment-task.csproj 
+dotnet run --project netwise-recruitment-task\netwise-recruitment-task.csproj 
 ```
+Try double backslash `\\` if the program says that the path is missing.
 
 The `http` profile starts the application at:
 
