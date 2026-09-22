@@ -18,7 +18,7 @@ public class NetwiseCatController(ICatService service) : ControllerBase
         {
             return NotFound(e.Message);
         }
-        catch (Exception e)
+        catch (Exception)
         {
             return StatusCode(500, "Internal server error");
         }
