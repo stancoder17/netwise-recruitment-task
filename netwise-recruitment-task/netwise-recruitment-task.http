@@ -1,6 +1,6 @@
-@netwise_recruitment_task_HostAddress = http://localhost:5281
+@netwise_task_HostAddress = http://localhost:5116
 
-GET {{netwise_recruitment_task_HostAddress}}/weatherforecast/
+GET {{netwise_task_HostAddress}}/cat_fact
 Accept: application/json
 
 ###
